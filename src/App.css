@@ -1,0 +1,20 @@
+*{
+  /* overflow-y: hidden; */
+}
+.indicator {
+  cursor: pointer;
+  padding: 10px;
+  text-align: center;
+  border: 1px #666 solid;
+  margin: 0;
+}
+
+.indicator.active {
+  color: #fff;
+  background-color: blue;
+}
+.containerImage {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+  url(./images/Home_bg-gaCczFDJ.jpg);
+  
+}
