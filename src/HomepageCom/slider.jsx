@@ -15,6 +15,7 @@ const slideStyles = {
     height: '500px',
     backgroundSize: 'cover',
     marginTop: "8px",
+    // backgroundPosition: "top center",
     backgroundRepeat: 'no-repeat',
     backgroundPosition: 'center',
     display: 'flex',

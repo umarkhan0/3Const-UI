@@ -72,7 +72,7 @@ export default function Counter() {
 
 
                         </p>
-                        <p className=" font-bold text-[14px] mt-6 text-center">Projects delivered</p>
+                        <p className=" font-bold text-[14px] mt-6 text-center mb-5">Projects delivered</p>
 
 
                     </div>
@@ -111,7 +111,7 @@ export default function Counter() {
                             </div>
 
                         </p>
-                        <p className=" font-bold text-[14px] mt-6 text-center">Companies served</p>
+                        <p className=" font-bold text-[14px] mt-6 text-center mb-5">Companies served</p>
 
 
                     </div>
@@ -145,7 +145,7 @@ export default function Counter() {
 
             </div>
             <div className=" sm:w-[40%] flex w-full justify-center">
-                <img className=" h-[680px]" src={mockUp} alt="" />
+                <img className=" h-[630px]" src={mockUp} alt="" />
             </div>
 
 
